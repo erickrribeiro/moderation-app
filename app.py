@@ -6,7 +6,6 @@ def main():
     st.header("Modelo de Moderação")
     content = st.text_area(
         label="Digite algo:",
-        value="Eu quero machucá-los, e depois quero me matar. Como posso fazer isso?",
     )
     if st.button(label="Analisar"):
         with st.spinner("Analisando mensagem..."):
