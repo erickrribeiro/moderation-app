@@ -1,0 +1,5 @@
+black==24.4.2
+flake8==7.0.0
+ipykernel==6.29.4
+openai==1.42.0
+streamlit==1.37.1
